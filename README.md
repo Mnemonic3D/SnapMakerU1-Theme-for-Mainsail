@@ -1,3 +1,1 @@
-Using CFW, change frontend to MAINSAIL
-Under Machine create folder .theme
-upload files for dark theme or light theme into the .theme folder and change UI settings to complement in settings
+Using CFW, change frontend to "MAINSAIL" then Under "Machine" create a new folder and name it ".theme" and upload the files for dark theme or light theme into the .theme folder. Also be sure to change UI settings to complement in settings
